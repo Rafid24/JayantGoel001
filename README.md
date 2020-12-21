@@ -31,9 +31,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
+  [![Website](https://img.shields.io/badge/Portofiio-UP-blue)](https://shadman-ahmed-chowdhury.github.io/)
 </p>
 <p align="center">
   <code><img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"></code>
